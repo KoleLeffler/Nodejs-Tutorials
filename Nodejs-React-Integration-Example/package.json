@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-react-integration",
+* "name": "nodejs-react-integration",
   "version": "1.0.0",
   "description": "Nodejs React Integration",
   "main": "index.js",
@@ -21,3 +21,4 @@
     "express": "^4.17.1"
   }
 }
+ 
